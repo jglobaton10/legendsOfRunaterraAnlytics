@@ -1,4 +1,4 @@
-# Legeds of Runaterra Analytics 
+# Legends of Runaterra Analytics 
 
 
 <p align="justify">
