@@ -3,7 +3,7 @@
 
 <p align="justify">
 
-Legends of runaterra is a collectible card game developed by Riot Games. In this project I generate analytics about about the cards of each of the regions of the game using PowerBI. </p>
+Legends of runaterra is a collectible card game developed by Riot Games. In this project I generate analytics about the card sets of each of the regions of the game using PowerBI. </p>
 The dataset used was taken from [kaggle](https://www.kaggle.com/brandonqilin/legends-of-runeterra) and an [ETL](https://github.com/jglobaton10/legendsOfRunaterraAnlytics/blob/main/ETL%20process%20-%20runaterra.ipynb) was created using pyspark and pandas to process the data and load it into SQL server.
 
 The look and feel of each page of the report is designed based on the aesthetics of each region; special attention was paid to the colors and graphic elements used. 
